@@ -19,6 +19,8 @@ Nella cartella estratta `PIP` trovi:
 | `docs` | Componenti, installazione, montaggio, uso e case study |
 | `assets` e `licenses` | Foto reali, tavola CAD e licenze dei componenti di terzi |
 
+Il firmware e il kit scaricabile restano invariati; il riepilogo delle prove sul dispositivo è aggiornato separatamente in [TESTING.md](TESTING.md). La documentazione dentro l’archivio è datata 18 novembre 2026.
+
 Leggi prima il `README.md` dentro il kit. Il file `SHA256SUMS.txt` incluso permette di controllare l'integrità dei file estratti. I sorgenti sono nell'archivio, organizzati per cartelle; non sono visualizzati come file separati nella radice di questo repository.
 
 **[Guida illustrata in PDF](PIP-guida-illustrata.pdf)** - otto pagine con componenti, software, stampa, montaggio e comandi.
@@ -35,9 +37,9 @@ Waveshare **ESP32-S3-LCD-1.69 V2 senza touch**, cavo dati USB-C/USB-C **deleyCON
 
 ## Stato: candidata 1.0.0-rc2
 
-Base Studio 1.5 con la sola correzione del movimento da fermo e impostazioni per i propri dati. Funzioni di base provate sul dispositivo; restano riscontro visivo della fine timer, Agenda pubblica e uso prolungato/interruzione di rete. [Stato dettagliato delle prove](TESTING.md).
+Base Studio 1.5 con la sola correzione del movimento da fermo e impostazioni per i propri dati. Funzioni di base, fine timer con ritorno alla faccina e Agenda Google verificate sul dispositivo. Restano uso prolungato e prova con interruzione prolungata della rete. [Stato aggiornato delle prove e limiti noti](TESTING.md).
 
-Il contenitore v24 è stato realmente stampato e montato. Le foto non attestano la versione firmware. Interfaccia e guide sono in italiano. Questo repository non costituisce ancora una release stabile e non è stata pubblicata una pagina MakerWorld.
+Il contenitore v24 è stato realmente stampato e montato. Le foto non attestano la versione firmware. Interfaccia e guide sono in italiano. La versione resta candidata al rilascio. La scheda MakerWorld è stata reinviata alla verifica: file di stampa e guida PDF su MakerWorld dopo l’approvazione, software completo scaricabile da questo repository. Il collegamento diretto al modello sarà aggiunto quando disponibile.
 
 ## Licenze
 
