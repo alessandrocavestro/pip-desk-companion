@@ -8,7 +8,7 @@ Un mini compagno da scrivania ESP32 con faccina animata, orologio, meteo, timer 
 
 **Profilo di stampa aggiornato il 23 novembre 2026:** [PIP-v24-A1-PETG-MakerWorld.3mf](PIP-v24-A1-PETG-MakerWorld.3mf). Per stampare con Bambu Studio o caricare il profilo su MakerWorld usa questo file al posto del 3MF incluso nel vecchio ZIP. Geometria e disposizione dei tre pezzi sono identiche; il file usa i preset ufficiali Bambu Lab A1 e Generic PETG, con le modifiche di progetto dichiarate. Il vecchio ZIP conserva il preset SUNLU personalizzato, che MakerWorld ha rifiutato.
 
-Il nuovo progetto mantiene 0,20 mm, tre pareti, 20% di riempimento, supporti e brim disattivati, 240/70 °C e portata 6 mm³/s. Slicing locale senza avvisi, circa 1 h 31 min e 15 g; non è stata eseguita una nuova stampa fisica. Bambu Handy usa i parametri di macchina e materiale dei preset selezionati nell’app. Il profilo è stato reinviato alla verifica MakerWorld il 23 novembre; approvazione ancora in attesa.
+Il nuovo progetto mantiene 0,20 mm, tre pareti, 20% di riempimento, supporti e brim disattivati, 240/70 °C e portata 6 mm³/s. Slicing locale senza avvisi, circa 1 h 31 min e 15 g; non è stata eseguita una nuova stampa fisica. Bambu Handy usa i parametri di macchina e materiale dei preset selezionati nell’app. Il profilo è stato approvato e pubblicato su [MakerWorld](https://makerworld.com/it/models/3670595-pip-compagno-da-scrivania#profileId-4214070) il 23 novembre 2026.
 
 **[PIP-kit-download-1.0.0-rc2.zip](PIP-kit-download-1.0.0-rc2.zip)** contiene tutti i file del progetto. Apri la pagina del file e usa il pulsante di download; estrai poi l'archivio sul tuo computer. Non occorre un abbonamento ChatGPT per usare PIP.
 
@@ -43,7 +43,7 @@ Waveshare **ESP32-S3-LCD-1.69 V2 senza touch**, cavo dati USB-C/USB-C **deleyCON
 
 Base Studio 1.5 con la sola correzione del movimento da fermo e impostazioni per i propri dati. Funzioni di base, fine timer con ritorno alla faccina e Agenda Google verificate sul dispositivo. Restano uso prolungato e prova con interruzione prolungata della rete. [Stato aggiornato delle prove e limiti noti](TESTING.md).
 
-Il contenitore v24 è stato realmente stampato e montato. Le foto non attestano la versione firmware. Interfaccia e guide sono in italiano. La versione resta candidata al rilascio. La scheda MakerWorld è stata reinviata alla verifica: file di stampa e guida PDF su MakerWorld dopo l’approvazione, software completo scaricabile da questo repository. Il collegamento diretto al modello sarà aggiunto quando disponibile.
+Il contenitore v24 è stato realmente stampato e montato. Le foto non attestano la versione firmware. Interfaccia e guide sono in italiano. La versione resta candidata al rilascio. PIP e il profilo A1 sono pubblici su [MakerWorld](https://makerworld.com/it/models/3670595-pip-compagno-da-scrivania#profileId-4214070): file di stampa e guida PDF su MakerWorld, software completo scaricabile da questo repository.
 
 ## Licenze
 
