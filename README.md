@@ -6,6 +6,10 @@ Un mini compagno da scrivania ESP32 con faccina animata, orologio, meteo, timer 
 
 ## Scarica il progetto completo
 
+**Profilo di stampa aggiornato il 23 novembre 2026:** [PIP-v24-A1-PETG-MakerWorld.3mf](PIP-v24-A1-PETG-MakerWorld.3mf). Per stampare con Bambu Studio o caricare il profilo su MakerWorld usa questo file al posto del 3MF incluso nel vecchio ZIP. Geometria e disposizione dei tre pezzi sono identiche; il file usa i preset ufficiali Bambu Lab A1 e Generic PETG, con le modifiche di progetto dichiarate. Il vecchio ZIP conserva il preset SUNLU personalizzato, che MakerWorld ha rifiutato.
+
+Il nuovo progetto mantiene 0,20 mm, tre pareti, 20% di riempimento, supporti e brim disattivati, 240/70 °C e portata 6 mm³/s. Slicing locale senza avvisi, circa 1 h 31 min e 15 g; non è stata eseguita una nuova stampa fisica. Bambu Handy usa i parametri di macchina e materiale dei preset selezionati nell’app. Il profilo è stato reinviato alla verifica MakerWorld il 23 novembre; approvazione ancora in attesa.
+
 **[PIP-kit-download-1.0.0-rc2.zip](PIP-kit-download-1.0.0-rc2.zip)** contiene tutti i file del progetto. Apri la pagina del file e usa il pulsante di download; estrai poi l'archivio sul tuo computer. Non occorre un abbonamento ChatGPT per usare PIP.
 
 Nella cartella estratta `PIP` trovi:
